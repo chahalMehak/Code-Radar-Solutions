@@ -4,5 +4,5 @@ int main(){
     int x;
     scanf("%c",&x);
     printf("ASCII Value: %d",x);
-    return o;
+    return 0;
 }
