@@ -10,5 +10,5 @@ int main(){
     char z[100];
     scanf("%s",&z);
     printf("Hobby: %s",z);
-    return 0;
+    
 }
